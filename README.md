@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/herizza)  
-
 ### Hi there 👋
 #### Today an analyst and a programmer in his spare time, maybe one day he will be a full-time programmer.
 
